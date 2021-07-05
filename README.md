@@ -3,7 +3,7 @@ Personal notebook of my study of "Probabilistic Machine Learning: An Introductio
 
 ## Please check!!
 All documents in this repository are written with '.ipynb' extension, stands for 'ipython notebook'.
-However, Github occasionally fails to render ipynb document properly. Rendering is slow and some contents are wrongly written (expecailly for latex equations) or even missing.
+However, Github occasionally fails to render ipynb document properly. Rendering is slow and some contents are wrongly written (especailly for latex equations) or even missing.
 
 Thus, I provide 'nbviewer' URL of each .ipynb files in this repository here. If github fails to render files properly, please click the link for corrosponding file below:
 
